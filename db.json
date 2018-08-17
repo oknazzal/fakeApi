@@ -1,0 +1,20 @@
+{
+"id": 1,
+"name": "My summer in Europe",
+"description": "Travel around Europe",
+"items": [
+{
+"id": 1,
+"url": "https://www.barcelona.cat/ca/"
+},
+{
+"id": 2,
+"url": "https://www.paris.fr/"
+},
+{
+"id": 3,
+"url": "https://www.timeout.com/paris/en/restaurants/a-mere"
+}
+
+]
+}
